@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<dataset>  
-	<Papel codigo="PETR3" descricao="Petrobras 3"/>                                                                     
-	<Papel codigo="PETR4" descricao="Petrobras 4"/>                                                                     
-	<Papel codigo="VALE4" descricao="VALE 4"/>                                                                     
-</dataset> 
